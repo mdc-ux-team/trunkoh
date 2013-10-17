@@ -1,0 +1,9 @@
+{
+  "name": "trunkoh.js",
+  "version": "1.0.0",
+  "main": "lib/trunkoh.js",
+  "ignore": [
+    "node_modules",
+    "components"
+  ]
+}

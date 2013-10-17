@@ -1,0 +1,9 @@
+vendor
+.rvmrc
+.DS_Store
+/dist/
+/tmp/
+node_modules
+*.sublime-project
+*.sublime-workspace
+npm-debug.log

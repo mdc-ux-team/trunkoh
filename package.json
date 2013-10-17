@@ -1,0 +1,54 @@
+{
+    "name": "trunkoh",
+    "version": "1.0.0",
+    "private": false,
+    "author": "Oracle Mexico Development Center User eXperience Team",
+    "description": "An intelligent text truncation JavaScript Library",
+    "contributors": [
+        {
+            "name": "Antonio Aguilar",
+            "email": "antonio.aguilar@oracle.com"
+        },
+        {
+            "name": "Evert Gonzalez",
+            "email": "evert.gonzalez@oracle.com"
+        }
+    ],
+    "repository": {
+        "type": "svn",
+        "url": "???"
+    },
+    "keywords": [
+        "intelligent truncation",
+        "JavaScript",
+        "mdc",
+        "mexico"
+    ],
+    "main": "lib/trunkoh.js",
+    "engine": {
+        "node": "0.8.x"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "grunt": "0.4.x",
+        "grunt-contrib-clean": "0.5.x",
+        "grunt-contrib-compress": "0.5.x",
+        "grunt-contrib-concat": "0.3.x",
+        "grunt-contrib-copy": "0.4.x",
+        "grunt-contrib-csslint": "0.1.x",
+        "grunt-contrib-cssmin": "0.6.x",
+        "grunt-contrib-handlebars": "0.5.x",
+        "grunt-contrib-htmlmin": "0.1.x",
+        "grunt-contrib-imagemin": "0.3.x",
+        "grunt-contrib-jshint": "0.6.x",
+        "grunt-contrib-uglify": "0.2.x",
+        "grunt-contrib-watch": "0.5.x",
+        "grunt-htmlrefs": "0.4.x",
+        "grunt-json-minify": "0.4.x",
+        "grunt-remove-logging": "0.1.x",
+        "grunt-ssh": "0.6.x",
+        "grunt-svgmin": "0.2.x",
+        "grunt-text-replace": "0.3.x"
+    }
+}
